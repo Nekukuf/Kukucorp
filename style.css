@@ -1,0 +1,114 @@
+body {
+    font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
+    margin: 0; 
+    padding: 0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: auto;
+    height: auto;
+}
+
+.a {
+    text-decoration: none;
+    color: white;
+    padding: 4px;
+    font-size: 18px;
+    vertical-align: top;
+    margin: 0 15px;
+    text-transform: uppercase;
+}
+
+.a:hover {
+    color: grey;
+}
+
+.logo{
+    font-weight: bold;
+    text-align: Left;
+    font-size: 48px;
+    padding-left: 48px;
+}
+
+
+.head {
+    background-color: rgb(20, 20, 20);
+    color: #fff;
+    text-decoration: none;
+    width: 100%;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+
+}
+footer {
+    background-color: rgb(20, 20, 20);
+    height: 80px;
+}
+
+section h1 {
+    color: #fff;
+    font-weight: normal;
+    font-size: 88px;
+}
+h4 {
+    margin-bottom: 3px;
+}
+
+li {
+    margin-bottom: 8px;
+}
+.page-header {
+    background-image: url("img/office.jpg");
+    background-color: black;
+    width: 100%;
+    text-align: center;
+    padding-top: 300px;
+    padding-bottom: 300px;
+}
+
+.page-header p {
+    color: #fff;
+    font-size: 26px;
+    margin: 0;
+}
+
+.header {
+    line-height: 2px;
+}
+
+.about {
+    font-size: 24px;
+    line-height: 42px; 
+    border-bottom: 2px solid rgb(128, 128, 128, 0.5);
+    padding-bottom: 21px;
+}
+
+.about_intro {
+    font-size: 48px;
+}
+
+.h4 {
+    font-size: 32px;
+    padding-left: 40px;
+    padding-bottom: 12px;
+}
+.kukugames-logo {
+    font-size: 56px;
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+}
+
+.kukugames-logo:hover {
+    color: gray;
+}
+
+.cop {
+    color: grey;
+    font-size: 16px;
+    padding-top: 60px;
+    margin-bottom: 0px;
+}
+
